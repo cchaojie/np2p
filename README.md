@@ -1,6 +1,8 @@
 # np2p
 P2P Distributed AI Computing Power For Painting
 
+[示例](http://119.91.202.207:10083/3d/posture-editor.html)
+
 通过将绘图任务分发给各个终端解决算力问题，本项目包含分发服务器[np2p-server](https://github.com/cchaojie/np2p-server)、客户终端程序[np2p-client](https://github.com/cchaojie/np2p-client)与超级融合应用[np2p-apps](https://github.com/cchaojie/np2p-apps)三个部分。
 
 个人通过安装客户终端程序并连接分发服务器提供算力来赚钱。分发服务器提供用户最终的绘图服务界面，收取费用，给客户终端程序分成。
